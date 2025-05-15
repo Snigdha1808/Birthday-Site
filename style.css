@@ -45,22 +45,22 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid black;
     border-radius: 10px;
-    background-image: url("D:\\Project\\Birthday site\\images\\gift wrap.jpg");
+    background-image: url("gift wrap.jpg");
     background-size: cover;
 }
 
 #gift-img-hbd:hover {
-    background-image: url("D:\\Project\\Birthday site\\images\\hbd.gif");
+    background-image: url("hbd.gif");
 }
 #gift-reaction:hover {
-    background-image: url("D:\\Project\\Birthday site\\images\\reaction.gif");
+    background-image: url("reaction.gif");
 }
 #gift-describe:hover {
-    background-image: url("D:\\Project\\Birthday site\\images\\boss.gif");
+    background-image: url("boss.gif");
 }
 #gift-cheers {
     height: 250px;
 }
 #gift-cheers:hover {
-    background-image: url("D:\\Project\\Birthday site\\images\\cheers.gif");
+    background-image: url("cheers.gif");
 }
