@@ -45,22 +45,22 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid black;
     border-radius: 10px;
-    background-image: url("gift wrap.jpg");
+    background-image: url("https://raw.githubusercontent.com/snigdha1808/Birthday-Site/main/gift wrap.jpg");
     background-size: cover;
 }
 
 #gift-img-hbd:hover {
-    background-image: url("hbd.gif");
+    background-image: url("https://raw.githubusercontent.com/snigdha1808/Birthday-Site/main/hbd.gif");
 }
 #gift-reaction:hover {
-    background-image: url("reaction.gif");
+    background-image: url("https://raw.githubusercontent.com/snigdha1808/Birthday-Site/main/reaction.gif");
 }
 #gift-describe:hover {
-    background-image: url("boss.gif");
+    background-image: url("https://raw.githubusercontent.com/snigdha1808/Birthday-Site/main/boss.gif");
 }
 #gift-cheers {
     height: 250px;
 }
 #gift-cheers:hover {
-    background-image: url("cheers.gif");
+    background-image: url("https://raw.githubusercontent.com/snigdha1808/Birthday-Site/main/cheers.gif");
 }
